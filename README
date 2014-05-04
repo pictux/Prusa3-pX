@@ -1,18 +1,25 @@
-This is an already compiled fork of the Prusa3-vanilla version:
+This is an already compiled fork of the original Prusa3-vanilla version:
 https://github.com/josefprusa/Prusa3-vanilla
 with a few additions!
 
-Greg extruder derivated from:
+Greg extruder and spacer from:
+http://www.thingiverse.com/thing:319766
+
+Greg gears/idler/washer from:
 http://www.thingiverse.com/thing:65939
-(edited to fit x-carriage mounting holes and to avoid warping during printing)
 
 LCD holder from:
 http://www.thingiverse.com/thing:308887
 
-Endstops from:
+RAMPS spacer from:
+http://www.thingiverse.com/thing:319776
+
+Endstops X & Y from:
 http://www.thingiverse.com/thing:82631
 http://www.thingiverse.com/thing:85368
-http://www.thingiverse.com/thing:82519
+
+Endstop Z from:
+http://www.thingiverse.com/thing:315369
 
 LM8UU holder (y axis) from:
 http://www.thingiverse.com/thing:94256
@@ -20,6 +27,4 @@ http://www.thingiverse.com/thing:94256
 608ZZ idler (x & y axis) from:
 http://www.thingiverse.com/thing:243169
 
-There are also:
-- RAMPS spacer
-- Greg spacer 
+
